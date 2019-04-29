@@ -1,37 +1,36 @@
-## Lab week 
+# Welcome
+These are just some of the projects i have created in my MAGD 150 class.
 
-You can use the [editor on GitHub](https://github.com/megsra/MAGD/edit/gh-pages/README.md) to maintain and preview the content for your website in Markdown files.
+## Lab week 6
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+In this lab I created a pong game.
+-move with wsd for paddles
 
-### Markdown
+[click here](https://github.com/megsra/MAGD/blob/gh-pages/s19magd150_lab06_Rakow.pde)
+[click here for part 2](https://github.com/megsra/MAGD/blob/gh-pages/pong.pde)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Lab week 7
 
-```markdown
-Syntax highlighted code block
+In this lab I created a flower that moves with your mouse.
+[click here](https://github.com/megsra/MAGD/blob/gh-pages/s19magd150_lab07_Rakow.pde)
 
-# Header 1
-## Header 2
-### Header 3
+## Lab week 3
 
-- Bulleted
-- List
+In this lab I created balls that change colors and that follow your mouse when you move.
 
-1. Numbered
-2. List
+[click here](https://github.com/megsra/MAGD/blob/gh-pages/s19magd150lab03_Rakow.pde)
 
-**Bold** and _Italic_ and `Code` text
+## Lab week 10
 
-[Link](url) and ![Image](src)
-```
+In this lab I created a solar system. In which plants orbit around the sun.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+[click here](https://github.com/megsra/MAGD/blob/gh-pages/s19magd150lab10_rakow.pde)
+[click here for part 2](https://github.com/megsra/MAGD/blob/gh-pages/plant.pde)
 
-### Jekyll Themes
+## Lab week 5
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/megsra/MAGD/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+In this lab I created a square and a circle. If you click on either the square or circle it will change the color of the background.
 
-### Support or Contact
+[click here](https://github.com/megsra/MAGD/blob/gh-pages/s19magd150lab05_rakow.pde)
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
