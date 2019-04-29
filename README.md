@@ -7,6 +7,7 @@ In this lab I created a pong game.
 -move with wsd for paddles
 
 [click here](https://github.com/megsra/MAGD/blob/gh-pages/s19magd150_lab06_Rakow.pde)
+
 [click here for part 2](https://github.com/megsra/MAGD/blob/gh-pages/pong.pde)
 
 ## Lab week 7
@@ -25,6 +26,7 @@ In this lab I created balls that change colors and that follow your mouse when y
 In this lab I created a solar system. In which plants orbit around the sun.
 
 [click here](https://github.com/megsra/MAGD/blob/gh-pages/s19magd150lab10_rakow.pde)
+
 [click here for part 2](https://github.com/megsra/MAGD/blob/gh-pages/plant.pde)
 
 ## Lab week 5
