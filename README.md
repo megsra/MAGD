@@ -4,7 +4,8 @@ These are just some of the projects i have created in my MAGD 150 class.
 ## Lab week 6
 
 In this lab I created a pong game.
--move with wsd for paddles
+
+-move with ws for paddles
 
 [click here](https://github.com/megsra/MAGD/blob/gh-pages/s19magd150_lab06_Rakow.pde)
 
